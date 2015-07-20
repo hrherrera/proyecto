@@ -1,4 +1,5 @@
 <? session_start();
+nuevo cambio
 include("GestionBD.php");
    $obj=new GestionBD();
    $cn=$obj->conectar();
