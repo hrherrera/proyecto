@@ -1,3 +1,4 @@
+<html>
 <? session_start();
 $_SESSION["contador"]++;
 //echo "contador ".$_SESSION["contador"]."<br>";
